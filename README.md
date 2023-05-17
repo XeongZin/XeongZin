@@ -1,4 +1,4 @@
-<div align=center><h1>HELLO ✋</h1></div>
+<div align=center><h1>𝙃𝙚𝙡𝙡𝙤 𝙒𝙤𝙧𝙡𝙙!<br>𝙄'𝙢 𝙎𝙚𝙤𝙣𝙜 𝙅𝙞𝙣</h1></div>
 I'm Seong Jin Kim.<br>
 I'm studying at Silla University. Busan, South Korea.<br><br>
 
