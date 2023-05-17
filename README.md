@@ -2,7 +2,7 @@
 I'm Seong Jin Kim.<br>
 I'm studying at Silla University. Busan, South Korea.<br><br>
 
-![XeongZin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XeongZin&show_icons=true&theme=dark)
+<a href="https://github.com/XeongZin" target="_blank">![XeongZin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XeongZin&show_icons=true&theme=dark)</a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksj101915)](https://solved.ac/ksj101915)
 <br><br><br>
 
