@@ -1,5 +1,5 @@
 <div align=center><h1>𝐻𝑒𝑙𝑙𝑜 𝑊𝑜𝑟𝑙𝑑!🖐️</h1></div>
-<h4>𝐼'𝑚 𝑆𝑒𝑜𝑛𝑔 𝐽𝑖𝑛 𝐾𝑖𝑚.<br> 𝐼'𝑚 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑎𝑡 𝑆𝑖𝑙𝑙𝑎 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦. 𝐵𝑢𝑠𝑎𝑛, 𝑆𝑜𝑢𝑡ℎ 𝐾𝑜𝑟𝑒𝑎.</h4><br><br>
+<h4>𝐼'𝑚 𝑆𝑒𝑜𝑛𝑔 𝐽𝑖𝑛 𝐾𝑖𝑚.<br> 𝐼'𝑚 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑎𝑡 𝑆𝑖𝑙𝑙𝑎 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦. 𝐵𝑢𝑠𝑎𝑛, 𝑆𝑜𝑢𝑡ℎ 𝐾𝑜𝑟𝑒𝑎.</h4><br>
 
 <a href="https://github.com/XeongZin" target="_blank"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeongZin&layout=compact&theme=dark&hide_border=true" /></a> 
 <br><br>
