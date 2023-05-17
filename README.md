@@ -2,7 +2,7 @@
 I'm Seong Jin Kim.<br>
 I'm studying at Silla University. Busan, South Korea.<br><br>
 
-<a href="https://github.com/XeongZin" target="_blank"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeongZin&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/XeongZin" target="_blank"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeongZin&layout=compact&theme=dark&hide_border=true" /></a> 
 <br><br>
 <a href="https://github.com/XeongZin" target="_blank">![XeongZin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XeongZin&show_icons=true&theme=dark)</a>
 <br><br>
