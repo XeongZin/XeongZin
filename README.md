@@ -7,13 +7,21 @@ I'm studying at Silla University. Busan, South Korea.<br><br>
 <br><br><br>
 
 
-<div align=center><h1>Learning... 📋</h1></div>
+<div align=center><h1>Languages📋 & Tools🛠</h1></div>
 
 <div>
 <a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a> &nbsp;
 <a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a> &nbsp;
 <a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> &nbsp;
 <a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp;
+<a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></a>
+<br>
+  
+  
+<a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"></a> &nbsp;
+<a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"></a> &nbsp;
+<a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a> &nbsp;
+<a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a> &nbsp;
 </div>
 
 <br><br><br>
