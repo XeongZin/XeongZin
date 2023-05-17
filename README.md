@@ -19,7 +19,7 @@ I'm studying at Silla University. Busan, South Korea.<br><br>
 <br><br><br>
 <div align=center>
   <div>
-  <img src="https://img.shields.io/badge/powerjin1-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"> &nbsp;
+  <a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/powerjin1-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"></a> &nbsp;
   <a href="https://www.instagram.com/xeong.zin/" target="_blank"><img src="https://img.shields.io/badge/XeongZin-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> 
   </div>
 <br>
