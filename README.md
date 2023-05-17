@@ -31,7 +31,8 @@
 <div align=center>
   <div>
   <a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/powerjin1-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"></a> &nbsp;
-  <a href="https://www.instagram.com/xeong.zin/" target="_blank"><img src="https://img.shields.io/badge/XeongZin-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> 
+  <a href="https://www.instagram.com/xeong.zin/" target="_blank"><img src="https://img.shields.io/badge/XeongZin-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> &nbsp;
+  <a href="https://github.com/XeongZin" target="_blank"><img src="https://img.shields.io/badge/ksj0010191500@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a> &nbsp;
   </div>
 <br>
   
